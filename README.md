@@ -29,14 +29,3 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohahomar&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophy"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahomar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
