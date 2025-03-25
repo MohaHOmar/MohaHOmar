@@ -30,12 +30,6 @@
   <a href="https://www.shellscript.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
+ 
 
----
-
-### 👀 Profile Visitors  
-### 👀 Profile Visitors  
-<p align="center">
-  <img src="https://shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20Visitors&query=views&url=https://api.countapi.xyz/hit/mohahomar/github-profile" alt="Profile Views" />
-</p>
 
