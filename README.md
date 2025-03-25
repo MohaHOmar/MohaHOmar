@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -29,7 +29,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.shellscript.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Verilog_logo.svg/512px-Verilog_logo.svg.png" alt="Verilog" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Verilog_logo.svg" alt="Verilog" width="40" height="40"/></a>
 </p>
 
 ---
