@@ -27,5 +27,14 @@
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.shellscript.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Verilog_logo.svg/512px-Verilog_logo.svg.png" alt="Verilog" width="40" height="40"/></a>
 </p>
 
+---
+
+### 👀 Profile Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohahomar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
