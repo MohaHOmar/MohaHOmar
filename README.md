@@ -34,6 +34,8 @@
 ---
 
 ### 👀 Profile Visitors  
+### 👀 Profile Visitors  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohahomar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20Visitors&query=views&url=https://api.countapi.xyz/hit/mohahomar/github-profile" alt="Profile Views" />
 </p>
+
