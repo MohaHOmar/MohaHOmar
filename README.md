@@ -1,4 +1,3 @@
-![Welcome](https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/header.png)
 
 <h1 align="center">Hi 👋, I'm Mohammad Omar</h1>
 <h3 align="center">🎓 Computer Engineering Student at Birzeit University</h3>
