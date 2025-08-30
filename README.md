@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Mohammad Omar</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Omar</h1>
 <h3 align="center">🎓 Computer Engineering Student at Birzeit University</h3>
 
 ---
@@ -30,6 +30,6 @@
   <a href="https://www.shellscript.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/></a>
-  <a href="https://www.chipverify.com/verilog/verilog-tutorial" target="_blank"><img src="https://img.icons8.com/color/48/000000/verilog.png" alt="Verilog" width="40" height="40"/></a>
-  <a href="https://www.chipverify.com/systemverilog/systemverilog-tutorial" target="_blank"><img src="https://img.icons8.com/color/48/000000/systemverilog.png" alt="SystemVerilog" width="40" height="40"/></a>
+  <a href="https://www.svgrepo.com/show/374163/verilog.svg" target="_blank"><img src="https://www.svgrepo.com/show/374163/verilog.svg" alt="Verilog" width="40" height="40"/></a>
+  <a href="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.11/1736203680374/Microsoft.VisualStudio.Services.Icons.Default" target="_blank"><img src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.11/1736203680374/Microsoft.VisualStudio.Services.Icons.Default" alt="SystemVerilog" width="40" height="40"/></a>
 </p>
