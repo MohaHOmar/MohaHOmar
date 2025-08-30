@@ -32,4 +32,5 @@
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/></a>
   <a href="https://www.svgrepo.com/show/374163/verilog.svg" target="_blank"><img src="https://www.svgrepo.com/show/374163/verilog.svg" alt="Verilog" width="40" height="40"/></a>
   <a href="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.11/1736203680374/Microsoft.VisualStudio.Services.Icons.Default" target="_blank"><img src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.11/1736203680374/Microsoft.VisualStudio.Services.Icons.Default" alt="SystemVerilog" width="40" height="40"/></a>
+    <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank"><img src="https://codasip.com/wp-content/uploads/2023/05/UVM-logo.png" alt="UVM" width="60" height="40"/></a>
 </p>
