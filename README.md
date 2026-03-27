@@ -4,8 +4,8 @@
 ---
 
 ### 💻 About Me  
-- Passionate about coding, problem-solving, and exploring new technologies  
-- Proficient in **HTML, CSS, Python, Verilog, SystemVerilog, Shell Script, C, Java, ReactJS**  
+- Passionate about AI, build ML Models, coding, problem-solving, and exploring new technologies  
+- Proficient in **HTML, CSS, Python, Verilog, SystemVerilog, Shell Script, C, Java**  
 - Currently learning **AI and Computer Networking**  
 - 🚀 Building projects that bridge **engineering and real-world solutions**  
 - 📚 Always curious, always learning!  
