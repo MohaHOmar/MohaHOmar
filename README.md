@@ -4,9 +4,9 @@
 ---
 
 ### 💻 About Me  
-- Passionate about **AI, Machine Learning, coding, and problem-solving**  
-- Proficient in **HTML, CSS, Python, Verilog, SystemVerilog, Shell Script, C, Java**  
-- Currently learning **AI and Computer Networking**  
+- Passionate about **AI, Machine Learning, Data Engineer, and problem-solving**  
+- Proficient in **HTML, CSS, Python, SystemVerilog, Shell Script, C, Java, MySQL, PostgreSQL**  
+- Currently learning **AI and Data Scince**  
 - 🚀 Building projects that bridge **engineering and real-world solutions**  
 - 📚 Always curious, always learning!  
 
